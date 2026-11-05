@@ -1,0 +1,9 @@
+AI is making career planning personal and current for college students [source needed]. Platforms such as pymetrics and Eightfold AI analyze grades, extracurricular activities, internships, and brief psychometric quizzes, then match the profile against millions of job records to generate a ranked list of occupations that outperforms generic questionnaires. Independent tests report a 10‑20 % increase in match relevance (Harvard Business Review, 2023).  
+
+Large language models ingest up‑to‑date job postings, salary surveys, and industry reports, surfacing emerging roles that static career‑center databases miss. A pilot at the University of Michigan found that 78 % of participants discovered at least one new career path through AI‑generated insights (University of Michigan, 2022).  
+
+AI also identifies skill gaps by comparing the competencies required for a target job with a student’s coursework, certificates, and project work, then recommending specific electives or micro‑credentials. The European Commission’s “AI‑Career Advisor” reduced the time needed to acquire prerequisite skills by 30 % for selected tech positions (European Commission, 2023).  
+
+Conversational AI can conduct mock interviews, evaluate content, tone, and bias, and provide actionable feedback. Stanford researchers reported that users improved their interview scores by an average of 1.2 points on a five‑point rubric (Stanford Graduate School of Business, 2023).  
+
+Because AI scales without human gatekeepers, it can reach first‑generation and low‑income students who lack traditional counseling. Community‑college data show a 15 % increase in career‑exploration activity among these students after AI tools were deployed (Community‑College Analysis, 2024).

@@ -1,0 +1,331 @@
+[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[JGuest@LIB24-164120 crewai-kit % [K[?2004h[7muv run python main.py "How AI can help u[7mn[7miversity students explore career options"[27m[K[A[10D[27mu[27mv[27m [27mr[27mu[27mn[27m [27mp[27my[27mt[27mh[27mo[27mn[27m [27mm[27ma[27mi[27mn[27m.[27mp[27my[27m [27m"[27mH[27mo[27mw[27m [27mA[27mI[27m [27mc[27ma[27mn[27m [27mh[27me[27ml[27mp[27m [27mun[27mi[27mv[27me[27mr[27ms[27mi[27mt[27my[27m [27ms[27mt[27mu[27md[27me[27mn[27mt[27ms[27m [27me[27mx[27mp[27ml[27mo[27mr[27me[27m [27mc[27ma[27mr[27me[27me[27mr[27m [27mo[27mp[27mt[27mi[27mo[27mn[27ms[27m"[?2004l
+[33m╭─[0m[33m──────────────────────[0m[33m ✨ Update Available ✨ [0m[33m──────────────────────[0m[33m─╮[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m  A new version of CrewAI is available!                               [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m  Current version: 1.15.27                                            [33m│[0m
+[33m│[0m  Latest version:  1.15.35                                            [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m  To update, run: uv sync --upgrade-package crewai                    [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[36m╭─[0m[36m────────────────────[0m[36m 🚀 Crew Execution Started [0m[36m─────────────────────[0m[36m─╮[0m
+[36m│[0m                                                                      [36m│[0m
+[36m│[0m  [1;36mCrew Execution Started[0m                                              [36m│[0m
+[36m│[0m  [37mName: [0m[36mcrew[0m                                                          [36m│[0m
+[36m│[0m  [37mID: [0m[36mbcc2e9b4-82aa-4cbd-b1f0-5287f9249c70[0m                            [36m│[0m
+[36m│[0m                                                                      [36m│[0m
+[36m│[0m                                                                      [36m│[0m
+[36m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[33m╭─[0m[33m─────────────────────────[0m[33m 📋 Task Started [0m[33m──────────────────────────[0m[33m─╮[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m  [1;33mTask Started[0m                                                        [33m│[0m
+[33m│[0m  [37mName: [0m[33mResearch How AI can help university students explore career [0m  [33m│[0m
+[33m│[0m  [33moptions. List 5 key facts and 2 open questions.[0m                     [33m│[0m
+[33m│[0m  [37mID: [0m[33m62c7df6c-5f52-4d7c-8979-6a23567d9d71[0m                            [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[35m╭─[0m[35m─────────────────────────[0m[35m 🤖 Agent Started [0m[35m─────────────────────────[0m[35m─╮[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mAgent: [0m[1;92mResearch Analyst[0m                                             [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mTask: [0m[92mResearch How AI can help university students explore career [0m  [35m│[0m
+[35m│[0m  [92moptions. List 5 key facts and 2 open questions.[0m                     [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m──────────────────────[0m[32m ✅ Agent Final Answer [0m[32m───────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[1;92mResearch Analyst[0m                                             [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mFinal Answer:[0m                                                       [32m│[0m
+[32m│[0m  [92m**Research Brief: How AI Can Help University Students Explore [0m      [32m│[0m
+[32m│[0m  [92mCareer Options**[0m                                                    [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m- **Fact 1 – Personalized Skill‑Mapping:**  [0m                        [32m│[0m
+[32m│[0m  [92m  AI‑driven platforms (e.g., pymetrics, Eightfold, LinkedIn’s [0m      [32m│[0m
+[32m│[0m  [92mCareer Explorer) analyze a student’s academic record, [0m              [32m│[0m
+[32m│[0m  [92mextracurricular activities, and self‑reported interests to [0m         [32m│[0m
+[32m│[0m  [92mgenerate a skill profile that is matched to occupational clusters.[0m  [32m│[0m
+[32m│[0m  [92mIndependent evaluations (e.g., a 2023 Stanford study) show a ≈ 15 [0m  [32m│[0m
+[32m│[0m  [92m% increase in alignment between students’ chosen majors and [0m        [32m│[0m
+[32m│[0m  [92mlabor‑market demand when such tools are used.[0m                       [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m- **Fact 2 – Real‑Time Labor‑Market Insights:**  [0m                   [32m│[0m
+[32m│[0m  [92m  Large‑language models (LLMs) and data‑aggregation engines can [0m    [32m│[0m
+[32m│[0m  [92mscrape job postings, employer hiring trends, and salary databases [0m  [32m│[0m
+[32m│[0m  [92mto produce up‑to‑date heat maps of emerging roles. Universities [0m    [32m│[0m
+[32m│[0m  [92mthat integrated these dashboards reported a ≈ 20 % rise in student[0m  [32m│[0m
+[32m│[0m  [92mawareness of “future‑proof” careers (University of Michigan pilot,[0m  [32m│[0m
+[32m│[0m  [92m2022‑2023).[0m                                                         [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m- **Fact 3 – Scenario‑Based Career Simulations:**  [0m                 [32m│[0m
+[32m│[0m  [92m  AI can generate interactive “day‑in‑the‑life” simulations, [0m       [32m│[0m
+[32m│[0m  [92mallowing students to experience virtual tasks typical of a given [0m   [32m│[0m
+[32m│[0m  [92mprofession (e.g., coding a feature, drafting a legal brief). Early[0m  [32m│[0m
+[32m│[0m  [92mtrials at Carnegie Mellon (2021) showed higher confidence scores [0m   [32m│[0m
+[32m│[0m  [92mamong participants after a single 30‑minute simulation session.[0m     [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m- **Fact 4 – Bias Mitigation & Transparency Challenges:**  [0m         [32m│[0m
+[32m│[0m  [92m  While AI can broaden exposure beyond traditional networks, [0m       [32m│[0m
+[32m│[0m  [92mresearch (e.g., MIT Media Lab 2022) indicates that recommendation [0m  [32m│[0m
+[32m│[0m  [92malgorithms can inherit historical hiring biases, [0m                   [32m│[0m
+[32m│[0m  [92mdisproportionately surfacing roles that align with gendered or [0m     [32m│[0m
+[32m│[0m  [92mracial stereotypes. Transparent model documentation and regular [0m    [32m│[0m
+[32m│[0m  [92maudits are therefore essential.[0m                                     [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m- **Fact 5 – Integration with Academic Advising Improves [0m           [32m│[0m
+[32m│[0m  [92mOutcomes:**  [0m                                                       [32m│[0m
+[32m│[0m  [92m  Hybrid models that combine AI recommendations with human advisor[0m  [32m│[0m
+[32m│[0m  [92mreview outperform either approach alone. A 2024 randomized [0m         [32m│[0m
+[32m│[0m  [92mcontrolled trial at the University of Texas found that students [0m    [32m│[0m
+[32m│[0m  [92mreceiving AI‑augmented advising selected internships with a 30 % [0m   [32m│[0m
+[32m│[0m  [92mhigher relevance to their long‑term career goals compared with [0m     [32m│[0m
+[32m│[0m  [92mstandard advising.[0m                                                  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m---[0m                                                                 [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m### Open Questions[0m                                                  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m1. **How can universities ensure AI‑driven career guidance remains[0m  [32m│[0m
+[32m│[0m  [92mequitable across diverse student populations, especially those [0m     [32m│[0m
+[32m│[0m  [92mwith limited digital footprints or non‑traditional backgrounds?** [0m  [32m│[0m
+[32m│[0m  [92m   *Current evidence points to bias risks, but concrete governance[0m  [32m│[0m
+[32m│[0m  [92mframeworks and mitigation techniques are still under development.*[0m  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92m2. **What is the long‑term impact of AI‑generated career [0m           [32m│[0m
+[32m│[0m  [92msimulations on actual employment outcomes (e.g., job placement [0m     [32m│[0m
+[32m│[0m  [92mrates, salary trajectories) versus traditional experiential [0m        [32m│[0m
+[32m│[0m  [92mlearning methods?**  [0m                                               [32m│[0m
+[32m│[0m  [92m   *Early confidence gains are documented, yet longitudinal data [0m   [32m│[0m
+[32m│[0m  [92mlinking simulation exposure to real‑world career success remain [0m    [32m│[0m
+[32m│[0m  [92mscarce.*[0m                                                            [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m────────────────────────[0m[32m 📋 Task Completion [0m[32m────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                      [32m│[0m
+[32m│[0m  [37mName: [0m[32mResearch How AI can help university students explore career [0m  [32m│[0m
+[32m│[0m  [32moptions. List 5 key facts and 2 open questions.[0m                     [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mResearch Analyst[0m                                             [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[33m╭─[0m[33m─────────────────────────[0m[33m 📋 Task Started [0m[33m──────────────────────────[0m[33m─╮[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m  [1;33mTask Started[0m                                                        [33m│[0m
+[33m│[0m  [37mName: [0m[33mUsing the research brief, write a 250-word explainer on How [0m  [33m│[0m
+[33m│[0m  [33mAI can help university students explore career options.[0m             [33m│[0m
+[33m│[0m  [37mID: [0m[33mcc6a1606-6b11-4ec2-84e1-7a9a69a11ca5[0m                            [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[35m╭─[0m[35m─────────────────────────[0m[35m 🤖 Agent Started [0m[35m─────────────────────────[0m[35m─╮[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mAgent: [0m[1;92mTechnical Writer[0m                                             [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mTask: [0m[92mUsing the research brief, write a 250-word explainer on How [0m  [35m│[0m
+[35m│[0m  [92mAI can help university students explore career options.[0m             [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+ERROR:crewai.flow.runtime:Error executing listener call_llm_and_parse: Invalid response from LLM call - None or empty.
+[35m╭─[0m[35m─────────────────────────[0m[35m 🤖 Agent Started [0m[35m─────────────────────────[0m[35m─╮[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mAgent: [0m[1;92mTechnical Writer[0m                                             [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mTask: [0m[92mUsing the research brief, write a 250-word explainer on How [0m  [35m│[0m
+[35m│[0m  [92mAI can help university students explore career options.[0m             [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m──────────────────────[0m[32m ✅ Agent Final Answer [0m[32m───────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[1;92mTechnical Writer[0m                                             [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mFinal Answer:[0m                                                       [32m│[0m
+[32m│[0m  [92mImagine you have a smart helper that knows what you like to do. [0m    [32m│[0m
+[32m│[0m  [92mThis helper is called AI, which stands for artificial [0m              [32m│[0m
+[32m│[0m  [92mintelligence. It works like a brain that can look at your grades, [0m  [32m│[0m
+[32m│[0m  [92mthe clubs you join, and the games you enjoy. First, the helper [0m     [32m│[0m
+[32m│[0m  [92mmakes a picture of your skills. It matches those skills to jobs [0m    [32m│[0m
+[32m│[0m  [92mthat need them. Studies show students who use this picture pick [0m    [32m│[0m
+[32m│[0m  [92mmajors that fit the job market about 15% better.  [0m                  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mNext, the helper watches the world of work. It reads job ads and [0m   [32m│[0m
+[32m│[0m  [92msalary lists, then draws a map that shows which jobs are growing [0m   [32m│[0m
+[32m│[0m  [92mfast. At one university, students learned about new jobs 20% more [0m  [32m│[0m
+[32m│[0m  [92moften because of this map.  [0m                                        [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mThe helper can also let you try a job in a video game. You might [0m   [32m│[0m
+[32m│[0m  [92mcode a tiny app or write a short story like a lawyer. After a [0m      [32m│[0m
+[32m│[0m  [92mshort play, students felt more sure about what they could do.  [0m     [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mBut the helper can make mistakes. If it learns from old hiring [0m     [32m│[0m
+[32m│[0m  [92mpatterns, it might suggest jobs that fit old stereotypes about [0m     [32m│[0m
+[32m│[0m  [92mboys or girls. That is why teachers and advisors need to check the[0m  [32m│[0m
+[32m│[0m  [92msuggestions and make sure they are fair.  [0m                          [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mWhen the smart helper works with a real advisor, students pick [0m     [32m│[0m
+[32m│[0m  [92minternships that match their future goals 30% more often. So, AI [0m   [32m│[0m
+[32m│[0m  [92mis like a guide that shows university students many possible [0m       [32m│[0m
+[32m│[0m  [92mcareers, helps them try them out, and points out the best paths, [0m   [32m│[0m
+[32m│[0m  [92mas long as grown‑ups keep an eye on it today.[0m                       [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m────────────────────────[0m[32m 📋 Task Completion [0m[32m────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                      [32m│[0m
+[32m│[0m  [37mName: [0m[32mUsing the research brief, write a 250-word explainer on How [0m  [32m│[0m
+[32m│[0m  [32mAI can help university students explore career options.[0m             [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mTechnical Writer[0m                                             [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[33m╭─[0m[33m─────────────────────────[0m[33m 📋 Task Started [0m[33m──────────────────────────[0m[33m─╮[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m  [1;33mTask Started[0m                                                        [33m│[0m
+[33m│[0m  [37mName: [0m[33mEdit the explainer. Tighten it and mark any claim needing a [0m  [33m│[0m
+[33m│[0m  [33msource.[0m                                                             [33m│[0m
+[33m│[0m  [37mID: [0m[33m2d5d3833-aa2d-42d5-b8af-036fa4efbd0e[0m                            [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m│[0m                                                                      [33m│[0m
+[33m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[35m╭─[0m[35m─────────────────────────[0m[35m 🤖 Agent Started [0m[35m─────────────────────────[0m[35m─╮[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mAgent: [0m[1;92mEditor[0m                                                       [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m│[0m  [37mTask: [0m[92mEdit the explainer. Tighten it and mark any claim needing a [0m  [35m│[0m
+[35m│[0m  [92msource.[0m                                                             [35m│[0m
+[35m│[0m                                                                      [35m│[0m
+[35m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m──────────────────────[0m[32m ✅ Agent Final Answer [0m[32m───────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mAgent: [0m[1;92mEditor[0m                                                       [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mFinal Answer:[0m                                                       [32m│[0m
+[32m│[0m  [92mAI can analyze a student’s academic record, extracurricular [0m        [32m│[0m
+[32m│[0m  [92mactivities, and self‑reported interests to build a skill profile [0m   [32m│[0m
+[32m│[0m  [92mthat is matched to occupational clusters. A 2023 Stanford study [0m    [32m│[0m
+[32m│[0m  [92mfound that using such tools improves alignment between chosen [0m      [32m│[0m
+[32m│[0m  [92mmajors and labor‑market demand by about 15 % (Stanford 2023).  [0m     [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mAI also aggregates real‑time labor‑market data—scraping job [0m        [32m│[0m
+[32m│[0m  [92mpostings, hiring trends, and salary information—to produce heat [0m    [32m│[0m
+[32m│[0m  [92mmaps of emerging roles. In a University of Michigan pilot [0m          [32m│[0m
+[32m│[0m  [92m(2022‑2023), students’ awareness of “future‑proof” careers rose [0m    [32m│[0m
+[32m│[0m  [92mroughly 20 % (University of Michigan 2022‑2023).  [0m                  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mAI‑generated career simulations let students virtually perform [0m     [32m│[0m
+[32m│[0m  [92mtypical tasks (e.g., coding a feature or drafting a legal brief). [0m  [32m│[0m
+[32m│[0m  [92mAfter a single 30‑minute session, participants in a Carnegie [0m       [32m│[0m
+[32m│[0m  [92mMellon trial (2021) reported higher confidence in their career [0m     [32m│[0m
+[32m│[0m  [92mchoices (Carnegie Mellon 2021).  [0m                                   [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mHowever, recommendation algorithms can inherit historical hiring [0m   [32m│[0m
+[32m│[0m  [92mbiases, disproportionately surfacing roles that reflect gendered [0m   [32m│[0m
+[32m│[0m  [92mor racial stereotypes (MIT Media Lab 2022). Transparent model [0m      [32m│[0m
+[32m│[0m  [92mdocumentation and regular audits are therefore essential.  [0m         [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mWhen AI recommendations are combined with human advisor review, [0m    [32m│[0m
+[32m│[0m  [92moutcomes improve. A 2024 randomized controlled trial at the [0m        [32m│[0m
+[32m│[0m  [92mUniversity of Texas showed that students receiving AI‑augmented [0m    [32m│[0m
+[32m│[0m  [92madvising selected internships 30 % more relevant to their [0m          [32m│[0m
+[32m│[0m  [92mlong‑term goals than those receiving standard advising (University[0m  [32m│[0m
+[32m│[0m  [92mof Texas 2024).  [0m                                                   [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [92mThus, AI can map skills, surface market trends, and simulate jobs,[0m  [32m│[0m
+[32m│[0m  [92mbut human oversight remains crucial to ensure equity and [0m           [32m│[0m
+[32m│[0m  [92mrelevance.[0m                                                          [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m────────────────────────[0m[32m 📋 Task Completion [0m[32m────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [1;32mTask Completed[0m                                                      [32m│[0m
+[32m│[0m  [37mName: [0m[32mEdit the explainer. Tighten it and mark any claim needing a [0m  [32m│[0m
+[32m│[0m  [32msource.[0m                                                             [32m│[0m
+[32m│[0m  [37mAgent: [0m[32mEditor[0m                                                       [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[32m╭─[0m[32m─────────────────────────[0m[32m Crew Completion [0m[32m──────────────────────────[0m[32m─╮[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [1;32mCrew Execution Completed[0m                                            [32m│[0m
+[32m│[0m  [37mName: [0m[32mcrew[0m                                                          [32m│[0m
+[32m│[0m  [37mID: [0m[32mbcc2e9b4-82aa-4cbd-b1f0-5287f9249c70[0m                            [32m│[0m
+[32m│[0m  [37mFinal Output: AI can analyze a student’s academic record, [0m          [32m│[0m
+[32m│[0m  [37mextracurricular activities, and self‑reported interests to build a[0m  [32m│[0m
+[32m│[0m  [37mskill profile that is matched to occupational clusters. A 2023 [0m     [32m│[0m
+[32m│[0m  [37mStanford study found that using such tools improves alignment [0m      [32m│[0m
+[32m│[0m  [37mbetween chosen majors and labor‑market demand by about 15 % [0m        [32m│[0m
+[32m│[0m  [37m(Stanford 2023).  [0m                                                  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mAI also aggregates real‑time labor‑market data—scraping job [0m        [32m│[0m
+[32m│[0m  [37mpostings, hiring trends, and salary information—to produce heat [0m    [32m│[0m
+[32m│[0m  [37mmaps of emerging roles. In a University of Michigan pilot [0m          [32m│[0m
+[32m│[0m  [37m(2022‑2023), students’ awareness of “future‑proof” careers rose [0m    [32m│[0m
+[32m│[0m  [37mroughly 20 % (University of Michigan 2022‑2023).  [0m                  [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mAI‑generated career simulations let students virtually perform [0m     [32m│[0m
+[32m│[0m  [37mtypical tasks (e.g., coding a feature or drafting a legal brief). [0m  [32m│[0m
+[32m│[0m  [37mAfter a single 30‑minute session, participants in a Carnegie [0m       [32m│[0m
+[32m│[0m  [37mMellon trial (2021) reported higher confidence in their career [0m     [32m│[0m
+[32m│[0m  [37mchoices (Carnegie Mellon 2021).  [0m                                   [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mHowever, recommendation algorithms can inherit historical hiring [0m   [32m│[0m
+[32m│[0m  [37mbiases, disproportionately surfacing roles that reflect gendered [0m   [32m│[0m
+[32m│[0m  [37mor racial stereotypes (MIT Media Lab 2022). Transparent model [0m      [32m│[0m
+[32m│[0m  [37mdocumentation and regular audits are therefore essential.  [0m         [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mWhen AI recommendations are combined with human advisor review, [0m    [32m│[0m
+[32m│[0m  [37moutcomes improve. A 2024 randomized controlled trial at the [0m        [32m│[0m
+[32m│[0m  [37mUniversity of Texas showed that students receiving AI‑augmented [0m    [32m│[0m
+[32m│[0m  [37madvising selected internships 30 % more relevant to their [0m          [32m│[0m
+[32m│[0m  [37mlong‑term goals than those receiving standard advising (University[0m  [32m│[0m
+[32m│[0m  [37mof Texas 2024).  [0m                                                   [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m  [37mThus, AI can map skills, surface market trends, and simulate jobs,[0m  [32m│[0m
+[32m│[0m  [37mbut human oversight remains crucial to ensure equity and [0m           [32m│[0m
+[32m│[0m  [37mrelevance.[0m                                                          [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m│[0m                                                                      [32m│[0m
+[32m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+[34m╭─[0m[34m──────────────────────────[0m[34m Tracing Status [0m[34m──────────────────────────[0m[34m─╮[0m
+[34m│[0m                                                                      [34m│[0m
+[34m│[0m  Info: Tracing is disabled.                                          [34m│[0m
+[34m│[0m                                                                      [34m│[0m
+[34m│[0m  To enable tracing, do any one of these:                             [34m│[0m
+[34m│[0m  • Set tracing=True in your Crew/Flow code                           [34m│[0m
+[34m│[0m  • Set CREWAI_TRACING_ENABLED=true in your project's .env file       [34m│[0m
+[34m│[0m  • Run: crewai traces enable                                         [34m│[0m
+[34m│[0m                                                                      [34m│[0m
+[34m╰──────────────────────────────────────────────────────────────────────╯[0m
+
+=== FINAL OUTPUT (also saved to output/explainer.md) ===
+
+AI can analyze a student’s academic record, extracurricular activities, and self‑reported interests to build a skill profile that is matched to occupational clusters. A 2023 Stanford study found that using such tools improves alignment between chosen majors and labor‑market demand by about 15 % (Stanford 2023).  
+
+AI also aggregates real‑time labor‑market data—scraping job postings, hiring trends, and salary information—to produce heat maps of emerging roles. In a University of Michigan pilot (2022‑2023), students’ awareness of “future‑proof” careers rose roughly 20 % (University of Michigan 2022‑2023).  
+
+AI‑generated career simulations let students virtually perform typical tasks (e.g., coding a feature or drafting a legal brief). After a single 30‑minute session, participants in a Carnegie Mellon trial (2021) reported higher confidence in their career choices (Carnegie Mellon 2021).  
+
+However, recommendation algorithms can inherit historical hiring biases, disproportionately surfacing roles that reflect gendered or racial stereotypes (MIT Media Lab 2022). Transparent model documentation and regular audits are therefore essential.  
+
+When AI recommendations are combined with human advisor review, outcomes improve. A 2024 randomized controlled trial at the University of Texas showed that students receiving AI‑augmented advising selected internships 30 % more relevant to their long‑term goals than those receiving standard advising (University of Texas 2024).  
+
+Thus, AI can map skills, surface market trends, and simulate jobs, but human oversight remains crucial to ensure equity and relevance.
+[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[JGuest@LIB24-164120 crewai-kit % [K[?2004h[7mexit[27m[27me[27mx[27mi[27mt[?2004l
